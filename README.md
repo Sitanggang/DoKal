@@ -1,0 +1,2 @@
+# DoKal
+The Document Calculator
